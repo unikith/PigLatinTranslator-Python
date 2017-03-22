@@ -14,4 +14,4 @@ def translateToPigLatin(word):#returns the translated word
 def exit(): # keeps screen open for user
     print("Press any key to exit")
     input()
-    return
+    return none
